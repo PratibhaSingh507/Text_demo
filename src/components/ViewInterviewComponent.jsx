@@ -22,7 +22,7 @@ class ViewInterviewComponent extends Component {
             <div>
                 <br></br>
                 <div className = "card col-md-6 offset-md-3">
-                    <h3 className = "text-center"> View Interview Details_Pratibha</h3>
+                    <h3 className = "text-center"> View Interview Details</h3>
                     <div className = "card-body">
                    
                         <div className = "row">
